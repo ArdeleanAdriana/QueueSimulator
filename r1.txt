@@ -1,0 +1,139 @@
+Time: 0
+Waiting Clients: (3,3,8) (10,3,7) (4,4,5) (7,4,6) (1,6,5) (2,6,5) (5,6,6) (8,6,7) (9,6,5) (6,7,5) 
+Queue 1: closed
+Queue 2: closed
+Time: 1
+Waiting Clients: (3,3,8) (10,3,7) (4,4,5) (7,4,6) (1,6,5) (2,6,5) (5,6,6) (8,6,7) (9,6,5) (6,7,5) 
+Queue 1: closed
+Queue 2: closed
+Time: 2
+Waiting Clients: (3,3,8) (10,3,7) (4,4,5) (7,4,6) (1,6,5) (2,6,5) (5,6,6) (8,6,7) (9,6,5) (6,7,5) 
+Queue 1: closed
+Queue 2: closed
+Time: 3
+Waiting Clients: (4,4,5) (7,4,6) (1,6,5) (2,6,5) (5,6,6) (8,6,7) (9,6,5) (6,7,5) 
+Queue 1: (10,3,7) 
+Queue 2: (3,3,8) 
+Time: 4
+Waiting Clients: (1,6,5) (2,6,5) (5,6,6) (8,6,7) (9,6,5) (6,7,5) 
+Queue 1: (10,3,7) (4,4,5) 
+Queue 2: (3,3,8) (7,4,6) 
+Time: 5
+Waiting Clients: (1,6,5) (2,6,5) (5,6,6) (8,6,7) (9,6,5) (6,7,5) 
+Queue 1: (10,3,7) (4,4,5) 
+Queue 2: (3,3,8) (7,4,6) 
+Time: 6
+Waiting Clients: (6,7,5) 
+Queue 1: (10,3,7) (4,4,5) (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (3,3,8) (7,4,6) (2,6,5) (8,6,7) 
+Time: 7
+Waiting Clients: 
+Queue 1: (10,3,7) (4,4,5) (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (3,3,8) (7,4,6) (2,6,5) (8,6,7) (6,7,5) 
+Time: 8
+Waiting Clients: 
+Queue 1: (10,3,7) (4,4,5) (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (3,3,8) (7,4,6) (2,6,5) (8,6,7) (6,7,5) 
+Time: 9
+Waiting Clients: 
+Queue 1: (4,4,5) (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (3,3,8) (7,4,6) (2,6,5) (8,6,7) (6,7,5) 
+Time: 10
+Waiting Clients: 
+Queue 1: (4,4,5) (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (7,4,6) (2,6,5) (8,6,7) (6,7,5) 
+Time: 11
+Waiting Clients: 
+Queue 1: (4,4,5) (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (7,4,6) (2,6,5) (8,6,7) (6,7,5) 
+Time: 12
+Waiting Clients: 
+Queue 1: (4,4,5) (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (7,4,6) (2,6,5) (8,6,7) (6,7,5) 
+Time: 13
+Waiting Clients: 
+Queue 1: (4,4,5) (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (7,4,6) (2,6,5) (8,6,7) (6,7,5) 
+Time: 14
+Waiting Clients: 
+Queue 1: (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (7,4,6) (2,6,5) (8,6,7) (6,7,5) 
+Time: 15
+Waiting Clients: 
+Queue 1: (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (7,4,6) (2,6,5) (8,6,7) (6,7,5) 
+Time: 16
+Waiting Clients: 
+Queue 1: (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (2,6,5) (8,6,7) (6,7,5) 
+Time: 17
+Waiting Clients: 
+Queue 1: (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (2,6,5) (8,6,7) (6,7,5) 
+Time: 18
+Waiting Clients: 
+Queue 1: (1,6,5) (5,6,6) (9,6,5) 
+Queue 2: (2,6,5) (8,6,7) (6,7,5) 
+Time: 19
+Waiting Clients: 
+Queue 1: (5,6,6) (9,6,5) 
+Queue 2: (2,6,5) (8,6,7) (6,7,5) 
+Time: 20
+Waiting Clients: 
+Queue 1: (5,6,6) (9,6,5) 
+Queue 2: (2,6,5) (8,6,7) (6,7,5) 
+Time: 21
+Waiting Clients: 
+Queue 1: (5,6,6) (9,6,5) 
+Queue 2: (8,6,7) (6,7,5) 
+Time: 22
+Waiting Clients: 
+Queue 1: (5,6,6) (9,6,5) 
+Queue 2: (8,6,7) (6,7,5) 
+Time: 23
+Waiting Clients: 
+Queue 1: (5,6,6) (9,6,5) 
+Queue 2: (8,6,7) (6,7,5) 
+Time: 24
+Waiting Clients: 
+Queue 1: (5,6,6) (9,6,5) 
+Queue 2: (8,6,7) (6,7,5) 
+Time: 25
+Waiting Clients: 
+Queue 1: (9,6,5) 
+Queue 2: (8,6,7) (6,7,5) 
+Time: 26
+Waiting Clients: 
+Queue 1: (9,6,5) 
+Queue 2: (8,6,7) (6,7,5) 
+Time: 27
+Waiting Clients: 
+Queue 1: (9,6,5) 
+Queue 2: (8,6,7) (6,7,5) 
+Time: 28
+Waiting Clients: 
+Queue 1: (9,6,5) 
+Queue 2: (6,7,5) 
+Time: 29
+Waiting Clients: 
+Queue 1: (9,6,5) 
+Queue 2: (6,7,5) 
+Time: 30
+Waiting Clients: 
+Queue 1: (9,6,5) 
+Queue 2: (6,7,5) 
+Time: 31
+Waiting Clients: 
+Queue 1: closed
+Queue 2: (6,7,5) 
+Time: 32
+Waiting Clients: 
+Queue 1: closed
+Queue 2: (6,7,5) 
+Time: 33
+Waiting Clients: 
+Queue 1: closed
+Queue 2: closed
+Average Processing Time: 5.9
+Peak Hour: 7
+Average Waiting Time: 8.0
